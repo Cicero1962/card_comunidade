@@ -338,6 +338,9 @@ a {
     align-items: flex-start;
     gap: 25px;
   }
+  .first_box{
+    gap: 40px;
+  }
   .content_footer,
   .content_box {
     display: flex;
