@@ -324,64 +324,7 @@ a {
   color: white;
 }
 
-@media(max-width:800px){
-  .first_box{
-    display: grid;
-    padding: 0;
-    grid-template-columns:1fr;
-    justify-content: center;
-    align-items: center;
-  }
-}
-  .box_header{
-    display: grid;
-    background-image: url("./images/bg-hero-mobile.svg");
-  }
 
-  @media(max-width:665px){
-    .header{
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 25px;
-    }
-    .content_footer,
-    .content_box{
-      display: flex;
-      flex-direction: column;
-    }
-    .communication_box{
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-    .end_footer{
-      display: flex;
-      justify-content: center;
-      padding: 10px 20px;
-      margin-top: 10px;
-    }
-    .community_box{
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-      height: auto;
-    }
-    .box_networks{
-      justify-content: center;
-    }
-    .text_main,
-    .text_dialogue,
-    .text_content,
-    .text_content_main,
-    .text_community{
-      text-align:center ;
-    }
-    .content_contact,
-    .contact_items{
-      margin-bottom: 31px;
-    }
-  }
 
   
 
