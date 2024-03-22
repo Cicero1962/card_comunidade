@@ -369,13 +369,15 @@ a {
     margin-bottom: 31px;
   }
   .text_box,
-  .content_box_text{
+  .content_box_text
+  {
     align-items: center;
   }
   .text_main,
   .text_dialogue,
   .text_content,
-  .text_content_main{
+  .text_content_main,
+  .text_community{
     text-align: center;
   }
 }
