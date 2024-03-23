@@ -141,6 +141,7 @@ img {
   max-width: 1200px;
   margin: 0 auto;
   gap: 30px;
+  padding: 0 30px;
 }
 
 .img_content {
@@ -382,6 +383,16 @@ a {
   .text_content_main,
   .text_community{
     text-align: center;
+  }
+  .text_content{
+    font-size: 1.2rem;
+    line-height: 1.4;
+  }
+  .content_box{
+    gap: 10px;
+  }
+  .sub_container{
+    gap: 50px;
   }
 }
 
