@@ -289,7 +289,7 @@ img {
   text-decoration: underline;
 }
 
-.networks_items:hover {
+.social_network:hover {
   fill: hsl(322, 100%, 66%);
 }
 
